@@ -12,4 +12,4 @@ This is a list of *very similar* themes that I created for Powercord. They all m
   A splash screen theme for Discord which uses Dracula color scheme. \
   **Repo:** https://github.com/TheOddGarlic/powercord-dracula-splash \
   **Preview:** \
-  ![Dracula Splash Screen](https://bananas.is-inside.me/hYmBzF3k.png)
+  ![Dracula Splash Screen](https://bananas.is-inside.me/mrnswK4T.png)
